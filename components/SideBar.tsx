@@ -64,7 +64,7 @@ const SideBar = () => {
           })}
         </section>
       </div>
-      <div className="bg-activeSidebarItem px-[12px] py-[9px] flex gap-[12px] justify-center items-center rounded-[4px]">
+      <div className="bg-activeSidebarItem px-[12px] py-[9px] flex gap-[12px] justify-center items-center rounded-[4px] cursor-pointer">
         <div className="bg-[#495064] p-[6px] w-[36px] h-[36px] rounded-[4px]">
           <Image
             src="/Navbar/outline/wallet.svg"

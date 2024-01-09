@@ -46,7 +46,7 @@ export const sideBarItems: SidebarItems[] = [
   {
     title: "Payments",
     logo: Payments,
-    route: "/Payments",
+    route: "/",
   },
   {
     title: "Tools",
